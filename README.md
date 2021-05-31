@@ -1,3 +1,10 @@
+# ARCHIVED
+
+This project is no longer maintained.  If someone would like to adopt it I'll be happy to transfer it.
+
+Personally, I now prefer [Restic](https://restic.net/).
+
+
 # Summary
 * [BackupPC](http://backuppc.sourceforge.net/) based on Ubuntu 14.04
 * Support for sending status mail using msmtp
